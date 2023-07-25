@@ -1,6 +1,6 @@
 ---
 short_name: oi-ia
-name: Oportunidades Ilimitadas
+name: oi-ia
 url: https://oportunidadesilimitadas.com/blogs/pagina-legal/index.html
 bio: Oportunidades Ilimitadas en Inteligencia Artificial
 avatar: https://i.imgur.com/7JpjvXQ.png
