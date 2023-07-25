@@ -1,48 +1,42 @@
-site: JDox
-title: JDox
-greetings: Hi 👋
+site: Board
+title: Board de oportunidadesilimitadas.com
+greetings: Hola 👋👋
 description: >-
-  JDox is Jekyll blog theme powered by Github Pages
-lang: en
+  Board de vista detallada de webs y apps de Inteligencia Artificial
+lang: es
 image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
-timezone:  Asia/Jakarta
-repo: https://github.com/aliifam/cnote # site repo [optional]
+timezone: America/Bogota
+repo: https://github.com/lucfreelance/board-board
 data-theme: light # default theme "dark" | "light"
-discus-identifier: webthme
-default-thumb: https://res.cloudinary.com/notee/image/upload/v1640412257/notes/default-thumb.webp
+discus-identifier: lucfreelance
+default-thumb: https://i.imgur.com/7JpjvXQ.png
 
 author:
-  name: Aliif Arief
-  url: https://notes.aliif.space/
-  bio: just ordinary boy interest in software development 
-  avatar: https://res.cloudinary.com/notee/image/upload/v1640410819/notes/avatar.jpg
-  username: aliifam # general username
-  github: aliifam # github username
-  twitter: lifrief # twitter username
-  email: me@aliif.space # email adress
+  name: Lucfreelance
+  url: https://lucfreelance.github.io/board/
+  bio: just ordinary boy interest in software development
+  avatar: https://i.imgur.com/osezUeb.jpg
+  username: lucfreelance # general username
+  github: lucfreelance # github username
+  twitter: soelucas # twitter username
+  email: lucfreelance@gmail.com # email adress
 
 twitter:
-  username: lifrief
+  username: soelucas
   card: summary_large_image
 
 # Font Settings
 googlewebfonts: family=Archivo:wght@400;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,300;1,400;1,500;1,600;1,700;1,900
 
 # URL settings
-url: "https://aliifam.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/jdox" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+url: "https://lucfreelance.github.io" # Domain Name of host. [username].github.io for github pages
+baseurl: "/board" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
-
-# local
-# url: "http://localhost:4000" # 
-# baseurl: "" # 
-
 
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 
 exclude:
   - .jekyll-cache
@@ -52,7 +46,7 @@ exclude:
   - LICENSE.md
   - README.md
   - CONTRIBUTING.md
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -78,40 +72,32 @@ collections:
     permalink: /:slug/
   authors:
     output: true
-  
+
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "default"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "page"
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
     values:
       image: https://res.cloudinary.com/notee/image/upload/v1640411291/notes/imgseo.jpg
-  - 
-    scope:
+  - scope:
       path: ""
       type: "authors"
     values:
       layout: "author"
 
-
 relative_links:
-  enabled:     true
+  enabled: true
   collections: false
-
-
