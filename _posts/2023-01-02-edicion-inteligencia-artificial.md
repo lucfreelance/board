@@ -4,7 +4,7 @@ title: Edicion IA
 description: Webs y Apps para Edicion en Inteligencia Artificial.
 summary: Sumario de Webs y Apps de Edicion en Inteligencia Artificial.
 author: oi-ia
-tags: -edicion-ia
+tags: edicion-ia
 image: /img/thumb/edicion.jpg
 ---
 

@@ -4,7 +4,7 @@ title: Asistencia IA
 description: Webs y Apps para Asistencia en Inteligencia Artificial.
 summary: Sumario de Webs y Apps de Asistencia en Inteligencia Artificial.
 author: oi-ia
-tags: -asistencia-ia
+tags: asistencia-ia
 thumb: /img/thumb/asistencia.jpg
 ---
 
