@@ -2,8 +2,7 @@
 layout: post
 title: Java studi kasus Aquarium
 description: Java studi kasus Aquarium multi objek dengan implementasi inheritance dan polymorphism.
-author: aliif
-tags: java oop coding
+tags: coding
 image: 
 thumb: 
 ---
