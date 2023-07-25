@@ -1,10 +1,10 @@
 ---
 short_name: admin
-name: admin website
-bio: sebuah admin yang hebat untuk website
-avatar:  /img/author/default.webp
-username: aliifam # general username
-github: aliifam # github username
-twitter: lifrief # twitter username
-email: me@aliif.space # email adress
+name: Lucas
+bio: Administrador de Board de Inteligencia Artificial
+avatar: /img/author/sse.jpg
+username: lucfreelance
+github: lucfreelance
+twitter: lucfreelance
+email: lucfreelance@gmail.com
 ---

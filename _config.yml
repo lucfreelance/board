@@ -12,13 +12,13 @@ discus-identifier: lucfreelance
 default-thumb: https://i.imgur.com/7JpjvXQ.png
 
 author:
-  name: board
+  name: admin
   url: https://oportunidadesilimitadas.com
   bio: Oportunidades ilimitadas en Inteligencia Artificial en Español.
   avatar: https://i.imgur.com/7JpjvXQ.png
-  username: board # general username
+  username: admin # general username
   github: https://github.com/lucfreelance/
-  twitter: soelucas
+  twitter: o_ilimitadas
   email: ilimitadasoportunidades@gmail.com
 
 twitter:
