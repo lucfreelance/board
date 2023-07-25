@@ -12,17 +12,17 @@ discus-identifier: lucfreelance
 default-thumb: https://i.imgur.com/7JpjvXQ.png
 
 author:
-  name: Lucfreelance
-  url: https://lucfreelance.github.io/board/
-  bio: just ordinary boy interest in software development
-  avatar: https://i.imgur.com/osezUeb.jpg
-  username: lucfreelance # general username
-  github: lucfreelance # github username
-  twitter: soelucas # twitter username
-  email: lucfreelance@gmail.com # email adress
+  name: board
+  url: https://oportunidadesilimitadas.com
+  bio: Oportunidades ilimitadas en Inteligencia Artificial en Español.
+  avatar: https://i.imgur.com/7JpjvXQ.png
+  username: board # general username
+  github: https://github.com/lucfreelance/
+  twitter: soelucas
+  email: ilimitadasoportunidades@gmail.com
 
 twitter:
-  username: soelucas
+  username: o_ilimitadas
   card: summary_large_image
 
 # Font Settings
