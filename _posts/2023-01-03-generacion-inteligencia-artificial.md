@@ -1,8 +1,8 @@
 ---
 layout: category
 title: Generacion IA
-description: Webs y Apps para Generacion en Inteligencia Artificial.
-summary: Sumario de Webs y Apps de Generacion en Inteligencia Artificial.
+description: Webs y Apps para Generación en Inteligencia Artificial.
+summary: Sumario de Webs y Apps de Generación en Inteligencia Artificial.
 author: oi-ia
 tags: -generacion-ia
 image: /img/thumb/generacion.jpg
