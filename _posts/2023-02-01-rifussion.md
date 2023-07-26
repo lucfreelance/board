@@ -15,10 +15,20 @@ author: oi-ia
 
 Plataforma de música impulsada por IA para crear canciones originales personalizadas. Con Riffusion, puedes componer tu propia música sin necesidad de conocimientos musicales previos.
 
+Aunque no funciona en Español, es fácil de entender, además su uso es muy elemental y por eso te recomendamos lo siguiente:
+
+1. Ve a la página de Rifussion cuando la quieras probar, en una pestaña independiente de tu navegador.
+
+2. Abre en otra pestaña [**Google Translate**](https://translate.google.com/){:target="\_blank" rel="noopener noreferrer"}
+
+3. Escribe una corta orden / criterio / prompt al Inglés; copiala
+
+4. En Rifussion abierto en otra pestaña del navegador, pega el prompt y dale 'play' para ver el resultado
+
 ## Funciones destacadas:
 
-- Generación de pistas musicales desde prompts.
-- Generación de líricas con voces sintéticas desde prompts.
+- Generación de pistas musicales desde prompts
+- Generación de líricas con voces sintéticas desde prompts
 
 **Detalles de Rifussion:**
 
@@ -50,13 +60,18 @@ Plataforma de música impulsada por IA para crear canciones originales personali
 - **Requiere registro**
   _sí / ❌ NO_
 
-- **API disponible**
-  _sí / ❌ NO_
-
 - **Gratis**
   _SÍ ✔️ / no_
 
 - **Membresías:**
   _Gratis_
 
+- **API disponible**
+  _sí / ❌ NO_
+
+- **Te lo explica mejor en 15':**
+- [**Felipe Grüber**](https://www.youtube.com/watch?v=9Nqb_xLHWOU){:target="\_blank" rel="noopener noreferrer"}
+
 [**Rifussion**](https://www.riffusion.com/){:target="\_blank" rel="noopener noreferrer"}
+
+[**Volver a Oportunidades Ilimitadas**](https://oportunidadesilimitadas.com)
