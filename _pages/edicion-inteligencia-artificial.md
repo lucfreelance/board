@@ -11,4 +11,5 @@ author: admin
 
 La Inteligencia Artificial (IA) ha dejado una huella significativa al revolucionar la forma en que producimos y mejoramos nuestras obras. La Edición IA ha ganado terreno con una impronta invaluable para aquellos que buscan potenciar su creatividad y eficiencia en el proceso de edición. Tanto en el ámbito profesional como en el personal, la IA ha abierto nuevas posibilidades para lograr resultados sorprendentes.
 
-[**Volver a Oportunidades Ilimitadas**](https://oportunidadesilimitadas.com)
+Volver a [**Home**](https://lucfreelance.github.io/board/) -
+[**Página principal**](https://oportunidadesilimitadas.com)

@@ -3,7 +3,7 @@ layout: post
 title: Rifussion
 description: Plataforma de música impulsada por IA para crear canciones originales personalizadas.
 summary: Plataforma de música impulsada por IA para crear canciones originales personalizadas. Con Riffusion, puedes componer tu propia música sin necesidad de conocimientos musicales previos.
-tags: asistente-audio musica texto-a-sonido
+tags: asistencia-ia asistente-audio musica texto-a-sonido
 image: https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png
 thumb: https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png
 author: oi-ia
@@ -11,7 +11,7 @@ author: oi-ia
 
 # Rifussion
 
-![Rifussion](https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png)
+![Rifussion](https://www.ai-navigate.com/wp-content/uploads/2023/03/riffusion-1.png)
 
 Plataforma de música impulsada por IA para crear canciones originales personalizadas. Con Riffusion, puedes componer tu propia música sin necesidad de conocimientos musicales previos.
 
@@ -69,9 +69,12 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
 - **API disponible**
   _sí / ❌ NO_
 
-- **Te lo explica mejor en 15':**
-- [**Felipe Grüber**](https://www.youtube.com/watch?v=9Nqb_xLHWOU){:target="\_blank" rel="noopener noreferrer"}
+**Te lo explica mejor en 15':**
+[**Felipe Grüber**](https://www.youtube.com/watch?v=9Nqb_xLHWOU){:target="\_blank" rel="noopener noreferrer"}
 
-[**Rifussion**](https://www.riffusion.com/){:target="\_blank" rel="noopener noreferrer"}
+![Logo de Chat GPT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWf00YlzKFMPwzBiGJj9C6xUlYusVXX0aASS7p9cyjM7fxOdUOBvtjBB4vjDnY8pWPEbk&usqp=CAU)
 
-[**Volver a Oportunidades Ilimitadas**](https://oportunidadesilimitadas.com)
+[**Riffusion**](https://www.riffusion.com/){:target="\_blank" rel="noopener noreferrer"}
+
+Volver a [**Home**](https://lucfreelance.github.io/board/) -
+[**Página principal**](https://oportunidadesilimitadas.com)
