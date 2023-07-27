@@ -4,17 +4,17 @@ title: Rifussion
 description: Plataforma de música impulsada por IA para crear canciones originales personalizadas.
 summary: Plataforma de música impulsada por IA para crear canciones originales personalizadas. Con Riffusion, puedes componer tu propia música sin necesidad de conocimientos musicales previos.
 tags: asistencia-ia asistente-audio musica texto-a-sonido
-image: https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png
-thumb: https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png
+image: https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png
+thumb: https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png
 author: oi-ia
 location: Cali, CO
-date: 2023-02-01
+date: 2023-07-03
 time: 20:00
 ---
 
 # Riffusion
 
-![Logo de Riffusion](https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png)
+![Logo de Riffusion](https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png)
 
 Plataforma de música impulsada por IA para crear canciones originales personalizadas. Con Riffusion, puedes componer tu propia música sin necesidad de conocimientos musicales previos.
 
@@ -75,7 +75,7 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
 **Te lo explica mejor en 15':**
 [**Felipe Grüber**](https://www.youtube.com/watch?v=9Nqb_xLHWOU){:target="\_blank" rel="noopener noreferrer"}
 
-![Logo de Riffusion](https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png)
+![Logo de Riffusion](https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png)
 
 [**Riffusion**](https://www.riffusion.com/){:target="\_blank" rel="noopener noreferrer"}
 
