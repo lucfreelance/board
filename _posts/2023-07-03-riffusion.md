@@ -7,6 +7,9 @@ tags: asistencia-ia asistente-audio musica texto-a-sonido
 image: https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png
 thumb: https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png
 author: oi-ia
+location: Cali, CO
+date: 2023-02-01
+time: 20:00
 ---
 
 # Riffusion
@@ -30,7 +33,7 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
 - Generación de pistas musicales desde prompts
 - Generación de líricas con voces sintéticas desde prompts
 
-**Detalles de Rifussion:**
+### Detalles de Rifussion
 
 - **Lanzamiento:**
   _2021_
@@ -45,10 +48,10 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
   _Estados Unidos_
 
 - **Interfaz en Español**
-  _sí / ❌ NO_
+  _sí | ❌ NO_
 
 - **Funciona en Español:**
-  _sí / ❌ NO_
+  _sí | ❌ NO_
 
 - **Nivel de Dificultad:**
   _Elemental_
@@ -58,21 +61,21 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
   _Web_
 
 - **Requiere registro**
-  _sí / ❌ NO_
+  _sí | ❌ NO_
 
 - **Gratis**
-  _SÍ ✔️ / no_
+  _SÍ ✔️ | no_
 
 - **Membresías:**
   _Gratis_
 
 - **API disponible**
-  _sí / ❌ NO_
+  _sí | ❌ NO_
 
 **Te lo explica mejor en 15':**
 [**Felipe Grüber**](https://www.youtube.com/watch?v=9Nqb_xLHWOU){:target="\_blank" rel="noopener noreferrer"}
 
-![Logo de Riffusion](https://www.ai-navigate.com/wp-content/uploads/2023/03/riffusion-1.png)
+![Logo de Riffusion](https://www.ai-navigate.com/wp-content/uploads/2023/03/rifussion-1.png)
 
 [**Riffusion**](https://www.riffusion.com/){:target="\_blank" rel="noopener noreferrer"}
 
