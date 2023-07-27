@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bing Creator Image
+title: Midjourney
 description: XX.
 summary: XX.
 tags:
@@ -9,7 +9,7 @@ thumb: https://
 author: oi-ia
 location: Cali, CO
 date: 2023-03-02
-time: 20:00
+time: 00:00
 ---
 
 # XXXX
@@ -77,7 +77,7 @@ Descripción...
 
 ![XXXX](https://)
 
-[**XXXX**](https://www.bing.com/create/){:target="\_blank" rel="noopener noreferrer"}
+[**XXXX**](https://www.midjourney.com/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

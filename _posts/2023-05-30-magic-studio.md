@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XXXX
+title: Magic Studio
 description: XX.
 summary: XX.
 tags:
@@ -8,8 +8,8 @@ image: https://
 thumb: https://
 author: oi-ia
 location: Cali, CO
-date: 2000-01-01
-time: 20:00
+date: 2023-05-30
+time: 14:00
 ---
 
 # XXXX
@@ -51,8 +51,7 @@ Descripción...
   _Elemental_
 
 - **Accesible desde:**
-  _Móvil_ (Web móvil, Google Play, iStore)
-  _Web_
+  _Móvil_ (Google Play)
 
 - **Requiere registro**
   _SÍ ✔️ | no_
@@ -77,7 +76,7 @@ Descripción...
 
 ![XXXX](https://)
 
-[**XXXX**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
+[**XXXX**](https://play.google.com/store/apps/details?id=com.magicstudio.android&hl=es_ES){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

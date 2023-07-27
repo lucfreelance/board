@@ -8,7 +8,7 @@ image: https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png
 thumb: https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png
 author: oi-ia
 location: Cali, CO
-date: 2023-07-03
+date: 2023-06-08
 time: 20:00
 ---
 

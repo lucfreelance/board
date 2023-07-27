@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XXXX
+title: Character-ai
 description: XX.
 summary: XX.
 tags:
@@ -8,7 +8,7 @@ image: https://
 thumb: https://
 author: oi-ia
 location: Cali, CO
-date: 2000-01-01
+date: 2023-04-26
 time: 20:00
 ---
 
@@ -77,7 +77,7 @@ Descripción...
 
 ![XXXX](https://)
 
-[**XXXX**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
+[**XXXX**](https://beta.character.ai/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

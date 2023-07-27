@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stable Diffusion
+title: Paraphrasing Tool
 description: XX.
 summary: XX.
 tags:
@@ -8,13 +8,13 @@ image: https://
 thumb: https://
 author: oi-ia
 location: Cali, CO
-date: 2023-01-28
-time: 09:00
+date: 2023-04-11
+time: 00:00
 ---
 
-# Stable Diffusion
+# XXXX
 
-![Stable Diffusion](https://xx)
+![XXXX](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de Stable Diffusion
+### Detalles de XXXX
 
 - **Lanzamiento:**
   _2023_
@@ -75,9 +75,9 @@ Descripción...
 **Te lo explica mejor en 15':**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![Stable Diffusion](https://)
+![XXXX](https://)
 
-[**Stable Diffusion**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
+[**XXXX**](https://www.hypotenuse.ai/paraphrasing-tool?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BsGhkO0P14J_bFFydUeuuMiR8DoM3wCTP-AE3-Kahmj9WOw5kPh8nhoCNVoQAvD_BwE){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

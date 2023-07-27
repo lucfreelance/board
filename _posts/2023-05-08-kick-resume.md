@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XXXX
+title: Kick Resume
 description: XX.
 summary: XX.
 tags:
@@ -8,8 +8,8 @@ image: https://
 thumb: https://
 author: oi-ia
 location: Cali, CO
-date: 2000-01-01
-time: 20:00
+date: 2023-05-08
+time: 08:00
 ---
 
 # XXXX
@@ -77,7 +77,7 @@ Descripción...
 
 ![XXXX](https://)
 
-[**XXXX**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
+[**XXXX**](https://www.kickresume.com/es/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)
