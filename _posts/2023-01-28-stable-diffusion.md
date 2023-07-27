@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XXXX
+title: Stable Diffusion
 description: XX.
 summary: XX.
 tags:
@@ -8,13 +8,13 @@ image: https://
 thumb: https://
 author: oi-ia
 location: Cali, CO
-date: 2000-01-01
-time: 20:00
+date: 2023-01-28
+time: 09:00
 ---
 
-# XXXX
+# Stable Diffusion
 
-![XXXX](https://xx)
+![Stable Diffusion](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Stable Diffusion
 
 - **Lanzamiento:**
   _2023_
@@ -75,9 +75,9 @@ Descripción...
 **Te lo explica mejor en 15':**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Stable Diffusion](https://)
 
-[**XXXX**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
+[**Stable Diffusion**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

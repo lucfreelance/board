@@ -1,20 +1,20 @@
 ---
 layout: post
-title: XXXX
-description: XX.
-summary: XX.
+title: BrandMark
+description: BrandMark.
+summary: BrandMark.
 tags:
 image: https://
 thumb: https://
 author: oi-ia
 location: Cali, CO
-date: 2000-01-01
-time: 20:00
+date: 2023-01-06
+time: 13:00
 ---
 
-# XXXX
+# BrandMark
 
-![XXXX](https://xx)
+![BrandMark](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de BrandMark
 
 - **Lanzamiento:**
   _2023_
@@ -75,9 +75,9 @@ Descripción...
 **Te lo explica mejor en 15':**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![BrandMark](https://)
 
-[**XXXX**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
+[**BrandMark**](https://xx/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)
