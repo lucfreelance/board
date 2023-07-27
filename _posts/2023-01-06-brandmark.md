@@ -3,7 +3,7 @@ layout: post
 title: BrandMark
 description: A diferencia de otros generadores, no solo se basa en la categoría de su empresa, sino que pide que proporcione palabras clave y con estos criterios.
 summary: A diferencia de otros generadores, no solo se basa en la categoría de su empresa, sino que pide que proporcione palabras clave y con estos criterios, genera el resultado en varias piezas publicitarias impresionántemente rápido.
-tags:
+tags: edicion-ia editor-marca imagen
 image: https://1000marcas.net/wp-content/uploads/2021/03/Brandmark-Logo-500x281.png
 thumb: https://1000marcas.net/wp-content/uploads/2021/03/Brandmark-Logo-500x281.png
 author: oi-ia
@@ -22,8 +22,9 @@ Aunque es una herramienta de pago, puede usarse gratuitamente en las primeras ca
 
 ## Funciones destacadas:
 
-- Generación de imagen corporativa.
-- Creador dfe logo.
+- Generación de imagen corporativa
+- Identidad de marca
+- Creador de logo
 
 ### Detalles de BrandMark
 
@@ -62,7 +63,7 @@ Aunque es una herramienta de pago, puede usarse gratuitamente en las primeras ca
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15':**
-[**XX**](https://www.youtube.com/watch?v=_1hnobhKspI){:target="\_blank" rel="noopener noreferrer"}
+[**Usitility**](https://www.youtube.com/watch?v=_1hnobhKspI){:target="\_blank" rel="noopener noreferrer"}
 
 ![BrandMark](https://1000marcas.net/wp-content/uploads/2021/03/Brandmark-Logo-500x281.png)
 
