@@ -1,51 +1,44 @@
 ---
 layout: post
 title: Bing Creator Image
-description: XX.
-summary: XX.
-tags:
-image: https://
-thumb: https://
+description: Destacada app destacada de generación de imagen, propiedad de Microsoft.
+summary: Destacada app destacada de generación de imagen, propiedad de Microsoft. La herramienta genera imágenes a partir de una búsqueda con premisas / prompts y palabras clave.
+tags: editor-foto edicion-ia imagen
+image: https://th.bing.com/th/id/R.2510f07d0067ca4e39e335b36e077f30?rik=rb1Drqctfq6XTA&pid=ImgRaw&r=0
+thumb: https://th.bing.com/th/id/R.2510f07d0067ca4e39e335b36e077f30?rik=rb1Drqctfq6XTA&pid=ImgRaw&r=0
 author: oi-ia
 location: Cali, CO
 date: 2023-03-02
 time: 20:00
 ---
 
-# XXXX
+# Bing Creator Image
 
-![XXXX](https://xx)
+![Bing Creator Image](https://th.bing.com/th/id/R.2510f07d0067ca4e39e335b36e077f30?rik=rb1Drqctfq6XTA&pid=ImgRaw&r=0)
 
-Descripción...
+Destacada app destacada de generación de imagen, propiedad de Microsoft. La herramienta genera imágenes a partir de una búsqueda con premisas / prompts y palabras clave.
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Generación de imágenes con excelentes resultados
+- Integración a redes sociales para facilitar compartir
 
-### Detalles de XXXX
+### Detalles de Bing Creator Image
 
 - **Lanzamiento:**
   _2023_
 
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
 - **Empresa matriz:**
-  _XX_
+  _Microsoft_
 
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Funciona en Español:**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Nivel de dificultad:**
   _Elemental_
@@ -56,28 +49,25 @@ Descripción...
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
-  _Email_ - _Google_ - _Microsoft_ - _Apple_
+  _Microsoft_
 
 - **Gratis**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Freemium_ (créditos mensuales) - _Plus_ (suscripción)
 
 - **API disponible**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**Ludacubi**](https://www.youtube.com/watch?v=Ez_l7i40kjg){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Bing Creator Image](https://th.bing.com/th/id/R.2510f07d0067ca4e39e335b36e077f30?rik=rb1Drqctfq6XTA&pid=ImgRaw&r=0)
 
-[**XXXX**](https://www.bing.com/create/){:target="\_blank" rel="noopener noreferrer"}
+[**Bing Creator Image**](https://www.bing.com/create/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

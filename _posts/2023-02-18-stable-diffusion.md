@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Stable Diffusion
-description: XX.
-summary: XX.
-tags:
-image: https://
-thumb: https://
+description: Una de las más destacadas herramientas del tipo que utiliza modelos de generación ultrapotente.
+summary: Una de las más destacadas herramientas del tipo que utiliza modelos de generación ultrapotente para crear imágenes de muy alta calidad, además de muy realistas y en alta definición.
+tags: editor-foto edicion-ia imagen
+image: https://typecast.ai/learn/wp-content/uploads/2023/02/23q1_27_main.jpg
+thumb: https://typecast.ai/learn/wp-content/uploads/2023/02/23q1_27_main.jpg
 author: oi-ia
 location: Cali, CO
 date: 2023-02-18
@@ -14,41 +14,36 @@ time: 09:00
 
 # Stable Diffusion
 
-![Stable Diffusion](https://xx)
+![Stable Diffusion](https://typecast.ai/learn/wp-content/uploads/2023/02/23q1_27_main.jpg)
 
-Descripción...
+Una de las más destacadas herramientas del tipo que utiliza modelos de generación ultrapotente para crear imágenes de muy alta calidad, además de muy realistas y en alta definición.
+
+Es de las más poderosas IA del momento siendo incluso referenciada en medios de todo el mundo. Aunque su lado más potente es de paga, vale la pena usarlo en la capa gratuita y obtener resultados destacables.
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- ChatGPT visual
+- Generador de prompts
 
 ### Detalles de Stable Diffusion
 
 - **Lanzamiento:**
-  _2023_
-
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
+  _2021_
 
 - **Empresa matriz:**
-  _XX_
+  _Stable Diffusion Online_
 
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Funciona en Español:**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Nivel de dificultad:**
-  _Elemental_
+  _Especializado_
 
 - **Accesible desde:**
   _Móvil_ (Web móvil, Google Play, iStore)
@@ -56,26 +51,23 @@ Descripción...
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
   _Email_ - _Google_ - _Microsoft_ - _Apple_
 
 - **Gratis**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Freemium_ (básico) - _Plus_ (suscripción)
 
 - **API disponible**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**Arte Pro**](https://www.youtube.com/watch?v=0SN0o1rnEAU){:target="\_blank" rel="noopener noreferrer"}
 
-![Stable Diffusion](https://)
+![Stable Diffusion](https://typecast.ai/learn/wp-content/uploads/2023/02/23q1_27_main.jpg)
 
 [**Stable Diffusion**](https://stablediffusionweb.com/){:target="\_blank" rel="noopener noreferrer"}
 

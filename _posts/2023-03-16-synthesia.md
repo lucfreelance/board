@@ -1,37 +1,32 @@
 ---
 layout: post
 title: Synthesia
-description: XX.
-summary: XX.
-tags:
-image: https://
-thumb: https://
+description: Esta herramienta líder en texto a video utiliza la tecnología más avanzada de síntesis.
+summary: Esta herramienta líder en texto a video utiliza la tecnología más avanzada de síntesis de voz para convertir cualquier guión en videos de calidad profesional en un tiempo acelerado.
+tags: texto-a-video editor-filme video avatar edicion-ia  generacion-ia
+image: https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc4887c7d00a2f74b0a0af_synthesia-logo.svg
+thumb: https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc4887c7d00a2f74b0a0af_synthesia-logo.svg
 author: oi-ia
 location: Cali, CO
 date: 2023-03-16
 time: 10:00
 ---
 
-# XXXX
+# Synthesia
 
-![XXXX](https://xx)
+![Synthesia](https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc4887c7d00a2f74b0a0af_synthesia-logo.svg)
 
-Descripción...
+Esta herramienta líder en texto a video utiliza la tecnología más avanzada de síntesis de voz para convertir cualquier guión en videos de calidad profesional en un tiempo acelerado.
 
 ## Funciones destacadas:
 
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Synthesia
 
 - **Lanzamiento:**
   _2023_
-
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
 
 - **Empresa matriz:**
   _XX_
@@ -40,18 +35,15 @@ Descripción...
   _Estados Unidos_
 
 - **Interfaz en Español**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Funciona en Español:**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Nivel de dificultad:**
-  _Elemental_
+  _Moderado_
 
 - **Accesible desde:**
-  _Móvil_ (Web móvil, Google Play, iStore)
   _Web_
 
 - **Requiere registro**
@@ -62,22 +54,20 @@ Descripción...
   _Email_ - _Google_ - _Microsoft_ - _Apple_
 
 - **Gratis**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Plus_ (con suscripción mensual)
 
 - **API disponible**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Synthesia](https://assets-global.website-files.com/61dc0796f359b6145bc06ea6/61dc4887c7d00a2f74b0a0af_synthesia-logo.svg)
 
-[**XXXX**](https://www.synthesia.io/){:target="\_blank" rel="noopener noreferrer"}
+[**Synthesia**](https://www.synthesia.io/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

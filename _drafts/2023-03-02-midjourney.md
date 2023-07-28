@@ -3,7 +3,7 @@ layout: post
 title: Midjourney
 description: XX.
 summary: XX.
-tags:
+tags: editor-foto edicion-ia imagen
 image: https://
 thumb: https://
 author: oi-ia

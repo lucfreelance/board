@@ -4,17 +4,17 @@ title: Perplexity
 description: XX.
 summary: XX.
 tags:
-image: https://
-thumb: https://
+image: https://uspto.report/TM/97760228/mark
+thumb: https://uspto.report/TM/97760228/mark
 author: oi-ia
 location: Cali, CO
 date: 2023-03-29
 time: 15:00
 ---
 
-# XXXX
+# Perplexity
 
-![XXXX](https://xx)
+![Perplexity](https://uspto.report/TM/97760228/mark')
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Perplexity
 
 - **Lanzamiento:**
   _2023_
@@ -73,11 +73,11 @@ Descripción...
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**XX**](https://uspto.report/TM/97760228/mark){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Perplexity](https://)
 
-[**XXXX**](https://www.perplexity.ai/){:target="\_blank" rel="noopener noreferrer"}
+[**Perplexity**](https://www.perplexity.ai/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)
