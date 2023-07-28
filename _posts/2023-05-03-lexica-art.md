@@ -12,9 +12,9 @@ date: 2023-05-03
 time: 07:00
 ---
 
-# XXXX
+# Lexica Art
 
-![XXXX](https://xx)
+![Lexica Art](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Lexica Art
 
 - **Lanzamiento:**
   _2023_
@@ -75,9 +75,9 @@ Descripción...
 **Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Lexica Art](https://)
 
-[**XXXX**](https://lexica.art/){:target="\_blank" rel="noopener noreferrer"}
+[**Lexica Art**](https://lexica.art/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

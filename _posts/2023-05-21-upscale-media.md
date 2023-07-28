@@ -12,9 +12,9 @@ date: 2023-05-21
 time: 01:00
 ---
 
-# XXXX
+# Upscale Media
 
-![XXXX](https://xx)
+![Upscale Media](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Upscale Media
 
 - **Lanzamiento:**
   _2023_
@@ -75,9 +75,9 @@ Descripción...
 **Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Upscale Media](https://)
 
-[**XXXX**](https://www.upscale.media/es){:target="\_blank" rel="noopener noreferrer"}
+[**Upscale Media**](https://www.upscale.media/es){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

@@ -12,9 +12,9 @@ date: 2023-04-26
 time: 20:00
 ---
 
-# XXXX
+# Character-ai
 
-![XXXX](https://xx)
+![Character-ai](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Character-ai
 
 - **Lanzamiento:**
   _2023_
@@ -75,9 +75,9 @@ Descripción...
 **Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Character-ai](https://)
 
-[**XXXX**](https://beta.character.ai/){:target="\_blank" rel="noopener noreferrer"}
+[**Character-ai**](https://beta.character.ai/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)
