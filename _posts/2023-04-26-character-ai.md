@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Character-ai
-description: XX.
-summary: XX.
+description: Interactúa con personajes, avatares, personalidades del espectáculo vivas o muertas.
+summary: Interactúa con personajes, avatares, personalidades del espectáculo vivas o muertas. Simula conversaciones con ellos. Esta app está enfocada al entretenimiento por lo que no debes tomar sus contenidos como cosa seria.
 tags:
-image: https://
-thumb: https://
+image: https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg
+thumb: https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg
 author: oi-ia
 location: Cali, CO
 date: 2023-04-26
@@ -14,9 +14,9 @@ time: 20:00
 
 # Character-ai
 
-![Character-ai](https://xx)
+![Character-ai](https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg)
 
-Descripción...
+Interactúa con personajes, avatares, personalidades del espectáculo vivas o muertas. Simula conversaciones con ellos. Esta app está enfocada al entretenimiento por lo que no debes tomar sus contenidos como cosa seria.
 
 ## Funciones destacadas:
 
@@ -75,7 +75,7 @@ Descripción...
 **Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![Character-ai](https://)
+![Character-ai](https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg)
 
 [**Character-ai**](https://beta.character.ai/){:target="\_blank" rel="noopener noreferrer"}
 

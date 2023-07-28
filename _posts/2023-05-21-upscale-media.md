@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Upscale Media
-description: XX.
-summary: XX.
-tags:
-image: https://
-thumb: https://
+description: Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de tus imágenes sin perder calidad.
+summary: Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de tus imágenes sin perder calidad. Puedes escalar tus fotos de manera rápida y sencilla con sorprendentes y detallados resultados.
+tags: edicion-ai imagen edicion-foto
+image: https://play-lh.googleusercontent.com/8Zawvlm4M0o7-U-tluWGd9MK9bJg8gIbvEt8xOunQkwayQcikKhjeoxRbsH6g55Yvwcc
+thumb: https://play-lh.googleusercontent.com/8Zawvlm4M0o7-U-tluWGd9MK9bJg8gIbvEt8xOunQkwayQcikKhjeoxRbsH6g55Yvwcc
 author: oi-ia
 location: Cali, CO
 date: 2023-05-21
@@ -14,9 +14,9 @@ time: 01:00
 
 # Upscale Media
 
-![Upscale Media](https://xx)
+![Upscale Media](https://play-lh.googleusercontent.com/8Zawvlm4M0o7-U-tluWGd9MK9bJg8gIbvEt8xOunQkwayQcikKhjeoxRbsH6g55Yvwcc)
 
-Descripción...
+Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de tus imágenes sin perder calidad. Puedes escalar tus fotos de manera rápida y sencilla con sorprendentes y detallados resultados.
 
 ## Funciones destacadas:
 
@@ -73,9 +73,9 @@ Descripción...
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**Eduardo Rojas C**](https://www.youtube.com/watch?v=Rnm1QPAluxg){:target="\_blank" rel="noopener noreferrer"}
 
-![Upscale Media](https://)
+![Upscale Media](https://play-lh.googleusercontent.com/8Zawvlm4M0o7-U-tluWGd9MK9bJg8gIbvEt8xOunQkwayQcikKhjeoxRbsH6g55Yvwcc)
 
 [**Upscale Media**](https://www.upscale.media/es){:target="\_blank" rel="noopener noreferrer"}
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kick Resume
-description: XX.
-summary: XX.
-tags:
+description: Herramienta IA para crear currículums y cartas de presentación personalizadas en pocos minutos.
+summary: Herramienta IA para crear currículums y cartas de presentación personalizadas en pocos minutos. Ofrece diversas plantillas para elegir y se integra fácilmente con redes sociales. Herramienta útil para aquellos que buscan destacarse en el mercado laboral.
+tags: asistente-digital editor-cv productividad
 image: https://
 thumb: https://
 author: oi-ia
@@ -14,9 +14,9 @@ time: 08:00
 
 # Kick Resume
 
-![Kick Resume](https://xx)
+![Kick Resume](https://aitoolmall.com/wp-content/uploads/2023/02/%E5%9B%BE%E7%89%877.png)
 
-Descripción...
+Herramienta IA para crear currículums y cartas de presentación personalizadas en pocos minutos. Ofrece diversas plantillas para elegir y se integra fácilmente con redes sociales. Herramienta útil para aquellos que buscan destacarse en el mercado laboral.
 
 ## Funciones destacadas:
 
@@ -26,15 +26,6 @@ Descripción...
 ### Detalles de Kick Resume
 
 - **Lanzamiento:**
-  _2023_
-
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
-- **Empresa matriz:**
-  _XX_
 
 - **País de Origen:**
   _Estados Unidos_
@@ -73,9 +64,9 @@ Descripción...
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**VectoArt**](https://www.youtube.com/watch?v=9U2S7WmKSXs){:target="\_blank" rel="noopener noreferrer"}
 
-![Kick Resume](https://)
+![Kick Resume](https://aitoolmall.com/wp-content/uploads/2023/02/%E5%9B%BE%E7%89%877.png)
 
 [**Kick Resume**](https://www.kickresume.com/es/){:target="\_blank" rel="noopener noreferrer"}
 
