@@ -4,6 +4,7 @@
 
 # Nice commands
 
+- bundle exec jekyll serve
 - bundle install
 - jekyll serve
 - gem install jekyll
