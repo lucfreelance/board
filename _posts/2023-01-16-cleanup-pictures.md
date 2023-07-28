@@ -59,7 +59,7 @@ Esta herramienta permite eliminar el ruido, las manchas y otros elementos no des
 - **API disponible**
   _SÍ ✔️ | no_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**Patricio Contreras**](https://www.youtube.com/watch?v=_ZcMLITTY-w){:target="\_blank" rel="noopener noreferrer"}
 
 ![cleaunup-pictures](https://i0.wp.com/outils-visuels.fr/wp-content/uploads/2021/10/Cleanup-Pictures-logo.png)

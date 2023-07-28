@@ -72,7 +72,7 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
 - **API disponible**
   _sí | ❌ NO_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**Felipe Grüber**](https://www.youtube.com/watch?v=9Nqb_xLHWOU){:target="\_blank" rel="noopener noreferrer"}
 
 ![Logo de Riffusion](https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png)

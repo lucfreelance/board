@@ -12,9 +12,9 @@ date: 2023-05-30
 time: 14:00
 ---
 
-# XXXX
+# Magic Studio
 
-![XXXX](https://xx)
+![Magic Studio](https://xx)
 
 Descripción...
 
@@ -23,7 +23,7 @@ Descripción...
 - XX.
 - XX.
 
-### Detalles de XXXX
+### Detalles de Magic Studio
 
 - **Lanzamiento:**
   _2023_
@@ -71,12 +71,12 @@ Descripción...
   _SÍ ✔️ | no_
   _sí | ❌ NO_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Magic Studio](https://)
 
-[**XXXX**](https://play.google.com/store/apps/details?id=com.magicstudio.android&hl=es_ES){:target="\_blank" rel="noopener noreferrer"}
+[**Magic Studio**](https://play.google.com/store/apps/details?id=com.magicstudio.android&hl=es_ES){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

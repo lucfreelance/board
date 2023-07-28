@@ -59,7 +59,7 @@ Descripción...
   _sí | ❌ NO_
 
 - **Formas de registro:**
-  _Email_ - _Google_ - _Microsoft_ - _Apple_
+  _Email_ - _Google_ - _Apple_
 
 - **Gratis**
   _SÍ ✔️ | no_
@@ -72,7 +72,7 @@ Descripción...
   _SÍ ✔️ | no_
   _sí | ❌ NO_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
 ![XXXX](https://)

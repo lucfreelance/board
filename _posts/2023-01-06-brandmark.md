@@ -62,7 +62,7 @@ Aunque es una herramienta de pago, puede usarse gratuitamente en las primeras ca
 - **API disponible**
   _sí | ❌ NO_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**Usitility**](https://www.youtube.com/watch?v=_1hnobhKspI){:target="\_blank" rel="noopener noreferrer"}
 
 ![BrandMark](https://1000marcas.net/wp-content/uploads/2021/03/Brandmark-Logo-500x281.png)

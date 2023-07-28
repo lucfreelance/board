@@ -72,7 +72,7 @@ Descripción...
   _SÍ ✔️ | no_
   _sí | ❌ NO_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
 
 ![Stable Diffusion](https://)

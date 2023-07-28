@@ -64,7 +64,7 @@ Inició operaciones como empresa de Texto a Imagen y a transicionado a Texto a V
 - **API disponible**
   _SÍ ✔️ | no_
 
-**Te lo explica mejor en 15':**
+**Te lo explica mejor en 15 minutos o menos:**
 [**Margo P**](https://www.youtube.com/watch?v=Q-101bP_vp8){:target="\_blank" rel="noopener noreferrer"}
 
 ![Dream by Wombo](https://ml.globenewswire.com/Resource/Download/d26394c3-0239-45e0-b89a-9128ddb30c27)
