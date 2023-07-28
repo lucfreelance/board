@@ -1,83 +1,73 @@
 ---
 layout: post
 title: Writesonic
-description: XX.
-summary: XX.
-tags:
-image: https://
-thumb: https://
+description: Este copy asistente ayudar a crear contenido efectivo y de alta calidad.
+summary: Este copy asistente ayudar a crear contenido efectivo y de alta calidad. Permite colaborar con otros miembros de tu equipo y compartir tus creaciones en varias plataformas de redes sociales.
+tags: asistencia-ia asistente-copy texto-a-imagen generacion-ia texto imagen
+image: https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b97b40a5f7ca25f308b6cf32af9b5a68/writesonic.png
+thumb: https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b97b40a5f7ca25f308b6cf32af9b5a68/writesonic.png
 author: oi-ia
 location: Cali, CO
 date: 2023-02-05
 time: 10:00
 ---
 
-# XXXX
+# Writesonic
 
-![XXXX](https://xx)
+![Writesonic](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b97b40a5f7ca25f308b6cf32af9b5a68/writesonic.png)
 
-Descripción...
+Este copy asistente ayudar a crear contenido efectivo y de alta calidad. Permite colaborar con otros miembros de tu equipo y compartir tus creaciones en varias plataformas de redes sociales.
+
+Recientemente se le integró la característica Texto a Imagen para poder generar ilustraciones muy bien realizadas.
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Escritura de textos
+- Templates de páginas de aterrizaje
+- Textos para marketing
+- Texto a imagen NUEVO!
 
-### Detalles de XXXX
+### Detalles de Writesonic
 
 - **Lanzamiento:**
   _2023_
-
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
-- **Empresa matriz:**
-  _XX_
 
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Funciona en Español:**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Nivel de dificultad:**
-  _Elemental_
+  _Moderado_
 
 - **Accesible desde:**
-  _Móvil_ (Web móvil, Google Play, iStore)
   _Web_
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
   _Email_ - _Google_ - _Apple_
 
 - **Gratis**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Freemium_ (con restricciones) - _Plus_ (suscripción mensual)
 
 - **API disponible**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**AlejoFacilitador**](https://www.youtube.com/watch?v=Ueo7yZ4XIy0){:target="\_blank" rel="noopener noreferrer"}
 
-![XXXX](https://)
+![Writesonic](https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b97b40a5f7ca25f308b6cf32af9b5a68/writesonic.png)
 
-[**XXXX**](https://writesonic.com/){:target="\_blank" rel="noopener noreferrer"}
+[**Writesonic**](https://writesonic.com/){:target="\_blank" rel="noopener noreferrer"}
 
 Volver a [**Home**](https://lucfreelance.github.io/board/) -
 [**Página principal**](https://oportunidadesilimitadas.com)

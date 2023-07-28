@@ -3,7 +3,7 @@ layout: post
 title: Pictory AI
 description: Aplicación de edición de video para automatizar el proceso de producción.
 summary: Aplicación de edición de video para automatizar el proceso de producción. Con esta aplicación, puedes crear videos de alta calidad usando plantillas y herramientas de edición intuitivas.
-tags: texto-a-video editor-filme video avatar
+tags: texto-a-video editor-filme video avatar edicion-ia  generacion-ia
 image: https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:auto/h:auto/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/03/logo-new-fon-2t.png
 thumb: https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:auto/h:auto/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/03/logo-new-fon-2t.png
 author: oi-ia
@@ -16,7 +16,7 @@ time: 18:00
 
 ![Pictory AI](https://mlrdjua3hhlu.i.optimole.com/cb:gO3x.62b97/w:auto/h:auto/q:mauto/f:avif/https://pictory.ai/wp-content/uploads/2022/03/logo-new-fon-2t.png)
 
-Aplicación de edición de video para automatizar el proceso de producción. Con esta aplicación, puedes crear videos de alta calidad usando plantillas y herramientas de edición intuitivas. 
+Aplicación de edición de video para automatizar el proceso de producción. Con esta aplicación, puedes crear videos de alta calidad usando plantillas y herramientas de edición intuitivas.
 
 ## Funciones destacadas:
 

@@ -3,7 +3,7 @@ layout: post
 title: BrandMark
 description: A diferencia de otros generadores, no solo se basa en la categoría de su empresa, sino que pide que proporcione palabras clave y con estos criterios.
 summary: A diferencia de otros generadores, no solo se basa en la categoría de su empresa, sino que pide que proporcione palabras clave y con estos criterios, genera el resultado en varias piezas publicitarias impresionántemente rápido.
-tags: edicion-ia editor-marca imagen
+tags: edicion-ia editor-marca imagen marca
 image: https://1000marcas.net/wp-content/uploads/2021/03/Brandmark-Logo-500x281.png
 thumb: https://1000marcas.net/wp-content/uploads/2021/03/Brandmark-Logo-500x281.png
 author: oi-ia
