@@ -72,5 +72,4 @@ Arte y Animacion Academy**](https://www.youtube.com/watch?v=FG3-02yaW9A){:target
 
 [**Lexica Art**](https://lexica.art/){:target="\_blank" rel="noopener noreferrer"}
 
-Volver a [**Home**](https://lucfreelance.github.io/board/) -
-[**Página principal**](https://oportunidadesilimitadas.com)
+[**Home**](https://lucfreelance.github.io/board/) | [**Blogs**](https://oportunidadesilimitadas.com/blogs/_site/index.html) |[**Archivo**](https://lucfreelance.github.io/board/archive/) |[**board/blog**](https://lucfreelance.github.io/board/blog/) |[**Página principal**](https://oportunidadesilimitadas.com)

@@ -81,5 +81,4 @@ Ayuda a generar contenido original y único. Con esta herramienta puedes reescri
 
 [**Hypotenuse AI**](https://www.hypotenuse.ai/paraphrasing-tool?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BsGhkO0P14J_bFFydUeuuMiR8DoM3wCTP-AE3-Kahmj9WOw5kPh8nhoCNVoQAvD_BwE){:target="\_blank" rel="noopener noreferrer"}
 
-Volver a [**Home**](https://lucfreelance.github.io/board/) -
-[**Página principal**](https://oportunidadesilimitadas.com)
+[**Home**](https://lucfreelance.github.io/board/) | [**Blogs**](https://oportunidadesilimitadas.com/blogs/_site/index.html) |[**Archivo**](https://lucfreelance.github.io/board/archive/) |[**board/blog**](https://lucfreelance.github.io/board/blog/) |[**Página principal**](https://oportunidadesilimitadas.com)

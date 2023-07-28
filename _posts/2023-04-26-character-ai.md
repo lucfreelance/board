@@ -79,5 +79,4 @@ Interactúa con personajes, avatares, personalidades del espectáculo vivas o mu
 
 [**Character-ai**](https://beta.character.ai/){:target="\_blank" rel="noopener noreferrer"}
 
-Volver a [**Home**](https://lucfreelance.github.io/board/) -
-[**Página principal**](https://oportunidadesilimitadas.com)
+[**Home**](https://lucfreelance.github.io/board/) | [**Blogs**](https://oportunidadesilimitadas.com/blogs/_site/index.html) |[**Archivo**](https://lucfreelance.github.io/board/archive/) |[**board/blog**](https://lucfreelance.github.io/board/blog/) |[**Página principal**](https://oportunidadesilimitadas.com)

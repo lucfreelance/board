@@ -66,5 +66,4 @@ Esta herramienta permite eliminar el ruido, las manchas y otros elementos no des
 
 [**cleaunup-pictures**](https://i0.wp.com/outils-visuels.fr/wp-content/uploads/2021/10/Cleanup-Pictures-logo.png){:target="\_blank" rel="noopener noreferrer"}
 
-Volver a [**Home**](https://lucfreelance.github.io/board/) -
-[**Página principal**](https://oportunidadesilimitadas.com)
+[**Home**](https://lucfreelance.github.io/board/) | [**Blogs**](https://oportunidadesilimitadas.com/blogs/_site/index.html) |[**Archivo**](https://lucfreelance.github.io/board/archive/) |[**board/blog**](https://lucfreelance.github.io/board/blog/) |[**Página principal**](https://oportunidadesilimitadas.com)

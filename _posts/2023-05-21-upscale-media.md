@@ -79,5 +79,4 @@ Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de t
 
 [**Upscale Media**](https://www.upscale.media/es){:target="\_blank" rel="noopener noreferrer"}
 
-Volver a [**Home**](https://lucfreelance.github.io/board/) -
-[**Página principal**](https://oportunidadesilimitadas.com)
+[**Home**](https://lucfreelance.github.io/board/) | [**Blogs**](https://oportunidadesilimitadas.com/blogs/_site/index.html) |[**Archivo**](https://lucfreelance.github.io/board/archive/) |[**board/blog**](https://lucfreelance.github.io/board/blog/) |[**Página principal**](https://oportunidadesilimitadas.com)
