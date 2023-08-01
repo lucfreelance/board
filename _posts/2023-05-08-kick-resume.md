@@ -20,48 +20,41 @@ Herramienta IA para crear currículums y cartas de presentación personalizadas 
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Editor de CV y carta de presentación
+- Plantillas personalizadas
 
 ### Detalles de Kick Resume
-
-- **Lanzamiento:**
 
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Funciona en Español:**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Nivel de dificultad:**
-  _Elemental_
+  _Moderado_
 
 - **Accesible desde:**
-  _Móvil_ (Web móvil, Google Play, iStore)
+  _Móvil_ (Web móvil)
   _Web_
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
-  _Email_ - _Google_ - _Microsoft_ - _Apple_
+  _Google_
 
 - **Gratis**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Membresías:**
   _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
 
 - **API disponible**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
 [**VectoArt**](https://www.youtube.com/watch?v=9U2S7WmKSXs){:target="\_blank" rel="noopener noreferrer"}

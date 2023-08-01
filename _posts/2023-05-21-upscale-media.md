@@ -2,7 +2,7 @@
 layout: post
 title: Upscale Media
 description: Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de tus imágenes sin perder calidad.
-summary: Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de tus imágenes sin perder calidad. Puedes escalar tus fotos de manera rápida y sencilla con sorprendentes y detallados resultados.
+summary: Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de tus imágenes sin perder calidad. Puedes escalar tus fotos de manera rápida y sencilla.
 tags: edicion-ai imagen edicion-foto
 image: https://play-lh.googleusercontent.com/8Zawvlm4M0o7-U-tluWGd9MK9bJg8gIbvEt8xOunQkwayQcikKhjeoxRbsH6g55Yvwcc
 thumb: https://play-lh.googleusercontent.com/8Zawvlm4M0o7-U-tluWGd9MK9bJg8gIbvEt8xOunQkwayQcikKhjeoxRbsH6g55Yvwcc
@@ -20,32 +20,22 @@ Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de t
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Aumenta el tamaño de las imágenes sin perder calidad
+- Cambia formato de archivos para descarga
 
 ### Detalles de Upscale Media
 
 - **Lanzamiento:**
   _2023_
 
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
-- **Empresa matriz:**
-  _XX_
-
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Funciona en Español:**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Nivel de dificultad:**
   _Elemental_
@@ -55,7 +45,6 @@ Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de t
   _Web_
 
 - **Requiere registro**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Formas de registro:**
@@ -63,13 +52,11 @@ Es una app de edición de imagen que utiliza la IA para aumentar el tamaño de t
 
 - **Gratis**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Membresías:**
   _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
 
 - **API disponible**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**

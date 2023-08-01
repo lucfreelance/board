@@ -3,7 +3,7 @@ layout: post
 title: Hypotenuse AI
 description: Ayuda a generar contenido original y único. Con esta herramienta puedes reescribir y mejorar tu contenido existente en segundos.
 summary: Ayuda a generar contenido original y único. Con esta herramienta puedes reescribir y mejorar tu contenido existente en segundos, sin necesidad de preocuparte por plagio o contenido duplicado, gracias a sus potentísimas herramientas de comprobación.
-tags: asistencia-ia asistente-copy generacion-ia texto
+tags: asistencia-ia asistente-copy generacion-ia texto coding
 image: https://paraphrasingtool.ai/wp-content/uploads/2022/10/Paraphrasing-tool-ai-new-logo-svg.svg
 thumb: https://paraphrasingtool.ai/wp-content/uploads/2022/10/Paraphrasing-tool-ai-new-logo-svg.svg
 author: oi-ia
@@ -22,35 +22,25 @@ Ayuda a generar contenido original y único. Con esta herramienta puedes reescri
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Asistente de código
+- Corrección de código
 
 ### Detalles de Hypotenuse AI
 
 - **Lanzamiento:**
   _2023_
 
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
-- **Empresa matriz:**
-  _XX_
-
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Funciona en Español:**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Nivel de dificultad:**
-  _Elemental_
+  _Moderado_
 
 - **Accesible desde:**
   _Móvil_ (Web móvil, Google Play, iStore)
@@ -58,13 +48,11 @@ Ayuda a generar contenido original y único. Con esta herramienta puedes reescri
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
-  _Email_ - _Google_ - _Microsoft_ - _Apple_
+  _Email_ - _Google_
 
 - **Gratis**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Membresías:**
@@ -72,7 +60,6 @@ Ayuda a generar contenido original y único. Con esta herramienta puedes reescri
 
 - **API disponible**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
 [**TextCortex AI**](https://www.youtube.com/watch?v=pjOKsVeGziU){:target="\_blank" rel="noopener noreferrer"}

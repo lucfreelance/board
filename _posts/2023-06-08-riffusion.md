@@ -3,7 +3,7 @@ layout: post
 title: Rifussion
 description: Plataforma de música impulsada por IA para crear canciones originales personalizadas.
 summary: Plataforma de música impulsada por IA para crear canciones originales personalizadas. Con Riffusion, puedes componer tu propia música sin necesidad de conocimientos musicales previos.
-tags: asistencia-ia asistente-audio musica texto-a-sonido
+tags: asistencia-ia asistente-audio musica texto-a-sonido musica
 image: https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png
 thumb: https://qubitz.app/wp-content/uploads/2023/04/RIFFUSION-AI.png
 author: oi-ia
