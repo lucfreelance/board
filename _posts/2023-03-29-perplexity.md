@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Perplexity
-description: XX.
-summary: XX.
-tags:
+description: Utiliza la inteligencia artificial para crear contenido atractivo y convincente.
+summary: Utiliza la inteligencia artificial para crear contenido atractivo y convincente. Analiza patrones de escritura y adapta el contenido en consecuencia.
+tags: asistente-ia texto-a-busqueda buscador-web chat
 image: https://uspto.report/TM/97760228/mark
 thumb: https://uspto.report/TM/97760228/mark
 author: oi-ia
@@ -14,68 +14,55 @@ time: 15:00
 
 # Perplexity
 
-![Perplexity](https://uspto.report/TM/97760228/mark')
+![Perplexity](https://uspto.report/TM/97760228/mark)
 
-Descripción...
+Utiliza la inteligencia artificial para crear contenido atractivo y convincente. Analiza patrones de escritura y adapta el contenido en consecuencia. Virtualmente imposible notar que fue escrito no por un ser humano.
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Buscador web
+- Asistente de código
 
 ### Detalles de Perplexity
 
 - **Lanzamiento:**
   _2023_
 
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
-- **Empresa matriz:**
-  _XX_
-
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Funciona en Español:**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Nivel de dificultad:**
   _Elemental_
 
 - **Accesible desde:**
-  _Móvil_ (Web móvil, Google Play, iStore)
+  _Móvil_ (Web móvil)
   _Web_
 
 - **Requiere registro**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Formas de registro:**
-  _Email_ - _Google_ - _Microsoft_ - _Apple_
+  _Email_ - _Google_ - _Apple_
 
 - **Gratis**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Freemium_ (básico) - _Pro_ (suscripción)
 
 - **API disponible**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://uspto.report/TM/97760228/mark){:target="\_blank" rel="noopener noreferrer"}
+[**IA para Humanos**](https://www.youtube.com/watch?v=L7Qk16fpjfQ){:target="\_blank" rel="noopener noreferrer"}
 
-![Perplexity](https://)
+![Perplexity](https://uspto.report/TM/97760228/mark)
 
 [**Perplexity**](https://www.perplexity.ai/){:target="\_blank" rel="noopener noreferrer"}
 

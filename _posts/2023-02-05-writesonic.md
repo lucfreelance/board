@@ -3,7 +3,7 @@ layout: post
 title: Writesonic
 description: Este copy asistente ayudar a crear contenido efectivo y de alta calidad.
 summary: Este copy asistente ayudar a crear contenido efectivo y de alta calidad. Permite colaborar con otros miembros de tu equipo y compartir tus creaciones en varias plataformas de redes sociales.
-tags: asistencia-ia asistente-copy generacion-ia texto texto-a-imagen imagen
+tags: asistencia-ia asistente-copy generacion-ia texto-a-imagen imagen
 image: https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b97b40a5f7ca25f308b6cf32af9b5a68/writesonic.png
 thumb: https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_b97b40a5f7ca25f308b6cf32af9b5a68/writesonic.png
 author: oi-ia

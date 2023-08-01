@@ -3,7 +3,7 @@ layout: post
 title: Character-ai
 description: Interactúa con personajes, avatares, personalidades del espectáculo vivas o muertas.
 summary: Interactúa con personajes, avatares, personalidades del espectáculo vivas o muertas. Simula conversaciones con ellos. Esta app está enfocada al entretenimiento por lo que no debes tomar sus contenidos como cosa seria.
-tags:
+tags: asistencia-ia asistente-copy generacion-ia texto chat
 image: https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg
 thumb: https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg
 author: oi-ia
