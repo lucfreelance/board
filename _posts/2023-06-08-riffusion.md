@@ -41,9 +41,6 @@ Aunque no funciona en Español, es fácil de entender, además su uso es muy ele
 - **Fundadores:**
   _Seth Forsgren_ and _Hayk Martiros_
 
-- **Empresa matriz:**
-  \_\_
-
 - **País de Origen:**
   _Estados Unidos_
 

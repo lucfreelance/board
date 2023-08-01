@@ -20,24 +20,25 @@ Buscador web especializado en imágenes, desarrollado por Stable Diffusion. Util
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Encuentra imágenes especializadas
+- Compartir arte digital
 
 ### Detalles de Lexica Art
 
 - **Lanzamiento:**
   _2023_
 
+- **Empresa matriz**
+  _Stable Diffusion_
+
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Funciona en Español:**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Nivel de dificultad:**
   _Elemental_
@@ -47,7 +48,6 @@ Buscador web especializado en imágenes, desarrollado por Stable Diffusion. Util
   _Web_
 
 - **Requiere registro**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Formas de registro:**
@@ -55,18 +55,15 @@ Buscador web especializado en imágenes, desarrollado por Stable Diffusion. Util
 
 - **Gratis**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Freemium_ (básico sin restricciones) - _Pro_ (recurrente)
 
 - **API disponible**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**
-Arte y Animacion Academy**](https://www.youtube.com/watch?v=FG3-02yaW9A){:target="\_blank" rel="noopener noreferrer"}
+[**Arte y Animacion Academy**](https://www.youtube.com/watch?v=FG3-02yaW9A){:target="\_blank" rel="noopener noreferrer"}
 
 ![Lexica Art](https://lexica.art/lexica-meta.png/)
 

@@ -20,60 +20,46 @@ Interactúa con personajes, avatares, personalidades del espectáculo vivas o mu
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Generar chats con avatares famosos de broma
+- Generar contenido para noticias falsas
 
 ### Detalles de Character-ai
 
 - **Lanzamiento:**
   _2023_
-
-- **Fundador:**
-  _XX XX_
-- **Fundadores:**
-  _XX XX_ and _XX XX_
-
-- **Empresa matriz:**
-  _XX_
-
 - **País de Origen:**
   _Estados Unidos_
 
 - **Interfaz en Español**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Funciona en Español:**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Nivel de dificultad:**
-  _Elemental_
+  _Moderado_
 
 - **Accesible desde:**
-  _Móvil_ (Web móvil, Google Play, iStore)
+  _Móvil_ (Web móvil)
   _Web_
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
-  _Email_ - _Google_ - _Microsoft_ - _Apple_
+  _Email_ - _Google_
 
 - **Gratis**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 - **Membresías:**
-  _Freemium_ (básico sin restricciones) - _Plus_ (con suscripción mensual)
+  _Freemium_ (créditos mensuales) - _Plus_ (membresía)
 
 - **API disponible**
-  _SÍ ✔️ | no_
   _sí | ❌ NO_
 
 **Te lo explica mejor en 15 minutos o menos:**
-[**XX**](https://www.youtube.com/watch?v=xx){:target="\_blank" rel="noopener noreferrer"}
+[**PocketLizerita**](https://www.youtube.com/watch?v=8BMhxWT5AnM){:target="\_blank" rel="noopener noreferrer"}
 
 ![Character-ai](https://www.finsmes.com/wp-content/uploads/2023/03/Character_Logo.jpeg)
 

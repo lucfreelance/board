@@ -20,8 +20,8 @@ Esta herramienta líder en texto a video utiliza la tecnología más avanzada de
 
 ## Funciones destacadas:
 
-- XX.
-- XX.
+- Creación de avatares para marketing
+- Creación de vídeo con prompts
 
 ### Detalles de Synthesia
 
@@ -48,7 +48,6 @@ Esta herramienta líder en texto a video utiliza la tecnología más avanzada de
 
 - **Requiere registro**
   _SÍ ✔️ | no_
-  _sí | ❌ NO_
 
 - **Formas de registro:**
   _Email_ - _Google_ - _Microsoft_ - _Apple_

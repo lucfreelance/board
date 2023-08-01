@@ -4,8 +4,8 @@ title: Kick Resume
 description: Herramienta IA para crear currículums y cartas de presentación personalizadas en pocos minutos.
 summary: Herramienta IA para crear currículums y cartas de presentación personalizadas en pocos minutos. Ofrece diversas plantillas para elegir y se integra fácilmente con redes sociales. Herramienta útil para aquellos que buscan destacarse en el mercado laboral.
 tags: asistente-digital editor-cv productividad
-image: https://
-thumb: https://
+image: https://aitoolmall.com/wp-content/uploads/2023/02/%E5%9B%BE%E7%89%877.png
+thumb: https://aitoolmall.com/wp-content/uploads/2023/02/%E5%9B%BE%E7%89%877.png
 author: oi-ia
 location: Cali, CO
 date: 2023-05-08
