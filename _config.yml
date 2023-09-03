@@ -30,7 +30,7 @@ googlewebfonts: family=Archivo:wght@400;700&family=Source+Code+Pro:ital,wght@0,2
 
 # URL settings
 url: "https://lucfreelance.github.io" # Domain Name of host. [username].github.io for github pages
-baseurl: "/board" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
+baseurl: "https://oportunidadesilimitadas.com/board-board/" # sub folder for jekyll site. only if jekyll site not in root of host. leave blank if not wishd. always add / in front.
 permalink: pretty
 
 markdown: kramdown
